@@ -1,0 +1,16 @@
+.header-container{
+    background-color: #0C2337;
+    height: 70px;
+}
+.main-menu > ul > li > a {
+    color: #E1E9EF;
+    padding: 10px 12px 20px 12px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+footer{
+    background-color: #0C2337;
+    color: #E1E9EF;
+
+}
